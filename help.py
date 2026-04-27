@@ -11,3 +11,4 @@ def new_page(page):
     
 
 print('first line coding now')
+print('new line')
