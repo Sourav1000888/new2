@@ -1,6 +1,6 @@
 # helping websites for users
 
 def helping(help):
-    return {'helpling line' : help}
+    return {'true line' : help}
 
 help('sos')
