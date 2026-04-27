@@ -3,10 +3,5 @@ for i in range(100):
 
 import pandas, numpy, sklearn
 
-
-
-
-def calling(name):
-    print('messge' , name)
-
-callable('ravi')
+def new():
+    print('new')
