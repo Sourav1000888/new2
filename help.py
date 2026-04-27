@@ -11,3 +11,8 @@ def new_page(page):
 
 
 print('second line code')
+
+
+
+def new_merge():
+    print('feature 1')
