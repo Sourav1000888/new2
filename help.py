@@ -16,3 +16,12 @@ def new_page(page):
 
 print('first line coding now')
 print('second line code')
+
+
+def new_merge():
+    print('feature 1')
+
+
+
+print('hello world')
+
