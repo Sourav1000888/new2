@@ -16,6 +16,3 @@ def new_page(page):
 
 print('first line coding now')
 print('second line code')
-
-
-print('develope opinion')
