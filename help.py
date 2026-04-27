@@ -18,6 +18,5 @@ print('first line coding now')
 print('second line code')
 
 
-
 def new_merge():
     print('feature 1')
