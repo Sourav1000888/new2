@@ -18,6 +18,3 @@ print('first line coding now')
 print('second line code')
 
     
-
-
-
