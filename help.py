@@ -6,5 +6,6 @@ def helping(help):
 help('sos')
 
 def new_page(page):
-    if page == 2:
+    if page == 3:
         return {'mesage' : page}
+    
